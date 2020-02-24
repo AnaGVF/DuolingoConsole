@@ -1,0 +1,42 @@
+
+		PAST TENSE / TIEMPO PASADO
+
+Hay muchas maneras de hablar del pasado en el idioma ingles, pero el pasado
+simple es la forma mas comun.
+
+Usamos el pasado simple para acciones completas en el pasado.
+
+Para formar el pasado simple con verbos regulares, usamos el infinitivo y
+anadimos la terminacion '-ed'. La forma es la misma para todas las personas y
+pronombres (I, you, he, she, it, we, they).
+
+		want (querer) ---> wanted
+
+		learn (aprender) ---> learned
+
+		stay (quedar) ---> stayed
+
+		walk (caminar) ---> walked
+
+		show (ensenar) ---> showed
+
+EXCEPCIONES:
+
+- Para verbos que terminan en una 'e', solo anadimos '-d'.
+
+		change (cambiar) ---> changed
+
+		believe (creer) ---> believed
+
+- Si el verbo termina en una vocal corta y una consonante (excepto 'y' o 'w'),
+doblamos la consonante final.
+
+		stop (detener) ---> stopped
+
+		commit (comprometer) ---> committed
+
+- Con verbos que terminan en una consonante y una 'y', se cambia la 'y' por una 'i'.
+
+		study (estudiar) ---> studied
+
+		try (intentar) ---> tried

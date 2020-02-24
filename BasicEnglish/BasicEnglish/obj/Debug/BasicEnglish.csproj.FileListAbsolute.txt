@@ -1,0 +1,7 @@
+C:\Users\aniav\Documents\UAQ - Ingeniería de Software\Introducción a la Programación\ProyectoFinal_AnaVassallo\BasicEnglish\BasicEnglish\bin\Debug\BasicEnglish.exe.config
+C:\Users\aniav\Documents\UAQ - Ingeniería de Software\Introducción a la Programación\ProyectoFinal_AnaVassallo\BasicEnglish\BasicEnglish\bin\Debug\BasicEnglish.exe
+C:\Users\aniav\Documents\UAQ - Ingeniería de Software\Introducción a la Programación\ProyectoFinal_AnaVassallo\BasicEnglish\BasicEnglish\bin\Debug\BasicEnglish.pdb
+C:\Users\aniav\Documents\UAQ - Ingeniería de Software\Introducción a la Programación\ProyectoFinal_AnaVassallo\BasicEnglish\BasicEnglish\obj\Debug\BasicEnglish.csprojAssemblyReference.cache
+C:\Users\aniav\Documents\UAQ - Ingeniería de Software\Introducción a la Programación\ProyectoFinal_AnaVassallo\BasicEnglish\BasicEnglish\obj\Debug\BasicEnglish.csproj.CoreCompileInputs.cache
+C:\Users\aniav\Documents\UAQ - Ingeniería de Software\Introducción a la Programación\ProyectoFinal_AnaVassallo\BasicEnglish\BasicEnglish\obj\Debug\BasicEnglish.exe
+C:\Users\aniav\Documents\UAQ - Ingeniería de Software\Introducción a la Programación\ProyectoFinal_AnaVassallo\BasicEnglish\BasicEnglish\obj\Debug\BasicEnglish.pdb
